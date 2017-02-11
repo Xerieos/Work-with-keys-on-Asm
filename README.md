@@ -4,4 +4,4 @@
 
 
 
-![Result](/result.png)
+![Result](/result.jpg)
